@@ -1,6 +1,6 @@
 # miniProject1
 
-Contributors:
+## Contributors:
 
 * Jay Lakhani
 * Sidharth Vemuri
