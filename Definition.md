@@ -1,4 +1,4 @@
-#Repository:
+#Repository
 *Contains all the project files and stores each file's revision history. Example is by creating new respository on the top right corner of the github screen.
 
 Clone - A copy of a respiratory that lives on your computer instead of on website's server somewhere, or act of making that copy.
