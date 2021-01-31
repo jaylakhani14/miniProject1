@@ -15,3 +15,23 @@
 
 # Merge:
 *Takes the changes from one one branch and applies them into another.
+
+# Checkout:
+*checkout is getting changes out from the local or remote repository.
+
+# Push:
+*It refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub.
+
+# Pull:
+*It refers to when you are fetching in changes and merging them.
+
+# Remote:
+Itcan be connected to local clones so that changes can be synced
+
+# Status:
+*Statuschecks are based on external processes, such as continuous integration builds, which run for each push you make to a repository.
+
+# Master Branch:
+*The default branch name in Git is master
+
+
