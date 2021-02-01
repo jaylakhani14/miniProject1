@@ -2,7 +2,7 @@
 
 ## Contributors:
 
-* Jay Lakhani
-* Sidharth Vemuri
+- Jay Lakhani
+- Sidharth Vemuri
 
 
