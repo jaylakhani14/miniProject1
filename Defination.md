@@ -32,6 +32,6 @@ Itcan be connected to local clones so that changes can be synced
 *Statuschecks are based on external processes, such as continuous integration builds, which run for each push you make to a repository.
 
 # Master Branch:
-*The default branch name in Git is master
+*The default development branch. Whenever you create a Git repository, a branch named "master" is created, and becomes the active branch. In most cases, this contains the local development, though that is purely by convention and is not required.
 
 
