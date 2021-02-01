@@ -13,7 +13,7 @@
 - definations wording
 - project design
 
-**Deletes**'
+**Deletes**
 - file
 
 ### Sidharth Vemuri
