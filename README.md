@@ -7,7 +7,7 @@
 ### Index:
 - [Introduction](introduction.md)
 - [GitFlow](gitflow.md)
-- [Definations](Definations.md)
+- [Defination](Defination.md)
 - [Changelog](Changelog.md)
 
 
